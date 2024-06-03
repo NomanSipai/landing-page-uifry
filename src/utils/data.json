@@ -1,0 +1,196 @@
+{
+  "header": {
+    "left": [
+      { "text": "Home", "link": "/" },
+      { "text": "About Us", "link": "" },
+      { "text": "Pricing", "link": "" },
+      { "text": "Features", "link": "" }
+    ],
+    "right": {
+      "download": {
+        "text": "Download",
+        "Link": "/"
+      }
+    }
+  },
+  "hero": {
+    "headline": "Make The Best Financial Decisions",
+    "subheadline": "Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor.",
+    "ctaButtons": {
+      "primary": {
+        "text": "Get Started",
+        "link": "/get-started"
+      },
+      "secondary": {
+        "text": "Watch Video",
+        "link": "/watch-video"
+      }
+    }
+  },
+  "features": {
+    "headline": "Uifry Premium",
+    "subheadline": "FEATURES",
+    "mockupImage": "/src/assets/features-image/mockup.png",
+    "ftlist": [
+      {
+        "title": "Budgeting Intervals",
+        "description": "Cum Et Convallis Risus Placerat Aliquam, Nunc. Scelerisque Aliquet Faucibus Tincidunt Eu Adipiscing Sociis Arcu Lorem Porttitor.",
+        "image": "/assets/features-image/star.svg"
+      },
+      {
+        "title": "Budgeting Intervals",
+        "description": "Cum Et Convallis Risus Placerat Aliquam, Nunc. Scelerisque Aliquet Faucibus Tincidunt Eu Adipiscing Sociis Arcu Lorem Porttitor.",
+        "image": "/assets/features-image/cube.svg"
+      },
+      {
+        "title": "Budgeting Intervals",
+        "description": "Cum Et Convallis Risus Placerat Aliquam, Nunc. Scelerisque Aliquet Faucibus Tincidunt Eu Adipiscing Sociis Arcu Lorem Porttitor.",
+        "image": "/assets/features-image/icon.svg"
+      }
+    ]
+  },
+  "advantages": {
+    "headline": "Why Choose Uifry?",
+    "subheadline": "Advantages",
+    "mobileImage": "/src/assets/advantages-image/iPhone-13-Pro.png",
+    "icon": "/src/assets/advantages-image/bell.png",
+    "title": "Clever Notifications",
+    "description": "Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris etiam odio. Duis tristique lacus, et blandit viverra nisl velit. Sed mattis rhoncus, diam suspendisse sit nunc, gravida eu. Lectus eget eget ac dolor neque lorem sapien, suspendisse aliquam.",
+
+    "mobileImage2": "/src/assets/advantages-image/iPhone-13-Pro2.png",
+    "icon2": "/src/assets/advantages-image/icon.png",
+    "title2": "Fully Customizable",
+    "description2": "Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris etiam odio. Duis tristique lacus, et blandit viverra nisl velit. Sed mattis rhoncus, diam suspendisse sit nunc, gravida eu. Lectus eget eget ac dolor neque lorem sapien, suspendisse aliquam."
+  },
+  "testimonial": {
+    "headline": "What Our Users Say About Us?",
+    "subheadline": "Testimonial",
+    "image": "/src/assets/testimonial-image/main-image.png",
+    "title": "The Best Financial Accounting App Ever!",
+    "description": "“Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris etiam odio. Duis tristique lacus, et blandit viverra nisl velit. Sed mattis rhoncus, diam suspendisse sit nunc, gravida eu. Lectus eget eget ac dolor neque lorem sapien, suspendisse aliquam.”",
+    "usersImage": [
+      {
+        "user": "/src/assets/testimonial-image/users/img1.png"
+      },
+      {
+        "user": "/src/assets/testimonial-image/users/img-2.png"
+      },
+      {
+        "user": "/src/assets/testimonial-image/users/img-3.png"
+      },
+      {
+        "user": "/src/assets/testimonial-image/users/img-4.png"
+      },
+      {
+        "user": "/src/assets/testimonial-image/users/img-5.png"
+      }
+    ]
+  },
+
+  "faq": {
+    "headline": "Frequently Asked Questions",
+    "subheadline": "Faq",
+    "faqList": [
+      {
+        "light": true,
+        "question": "The Best Financial Accounting App Ever!",
+        "answer": "“Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris."
+      },
+      {
+        "light": false,
+        "question": "The Best Financial Accounting App Ever!",
+        "answer": "“Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris."
+      },
+      {
+        "light": false,
+        "question": "The Best Financial Accounting App Ever!",
+        "answer": "“Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris."
+      },
+      {
+        "light": true,
+        "question": "The Best Financial Accounting App Ever!",
+        "answer": "“Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris."
+      },
+      {
+        "light": true,
+        "question": "The Best Financial Accounting App Ever!",
+        "answer": "“Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris."
+      },
+      {
+        "light": false,
+        "question": "The Best Financial Accounting App Ever!",
+        "answer": "“Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris."
+      }
+    ]
+  },
+
+  "about": {
+    "section": {
+      "title": "Ready To Get Started?",
+      "description": "Risus Habitant Leo Egestas Mauris Diam Eget Morbi Tempus Vulputate.",
+      "button": {
+        "text": "Download App"
+      }
+    }
+  },
+    "footer":{
+    "navItem1":{
+      "email":"Help@Frybix.Com",
+      "phone":"+1234 456 678 89"
+    },
+  "navItem2":{
+    "headline":"Links",
+    "links":[
+      {
+        "text":"Home"
+      },
+      {
+      "text":"About"
+      },
+        {
+      "text":"Bookings"
+      },
+        {
+      "text":"Blog"
+      }
+    ]
+    },
+    "navItem3":{
+    "headline":"Legal",
+    "legal":[
+      {
+        "text":"Terms of Use"
+      },
+      {
+      "text":"Privacy Policy"
+      },
+        {
+      "text":"Cookies Policy"
+      }
+   
+    ]
+    },
+      "navItem4":{
+    "headline":"Product",
+    "product":[
+      {
+        "text":"Take Tour"
+      },
+      {
+      "text":"Live Chat"
+      },
+        {
+      "text":"Reveiws"
+      }
+   
+    ]
+    },
+        "navItem5":{
+    "headline":"Newsletter",
+    "newsletter": {
+        "text":"Stay Up To Date",
+        "btnText":"Subscribe"
+      }
+    }
+  }
+}
