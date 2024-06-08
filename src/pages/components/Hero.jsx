@@ -20,7 +20,7 @@ const Hero = () => {
             />
             <div className="relative z-[1]">
               <div>
-                <h4
+                {/* <h4
                   data-aos="fade-up"
                   className="mt-10 leading-none text-5xl text-black lg:text-[64px] font-bold">
                   {data.hero.headline}
@@ -29,7 +29,7 @@ const Hero = () => {
                   data-aos="fade-up"
                   className="text-[18px] mt-5 font-medium text-gray-600">
                   {data.hero.subheadline}
-                </p>
+                </p> */}
               </div>
               <div className="flex mt-5 items-center">
                 <button
