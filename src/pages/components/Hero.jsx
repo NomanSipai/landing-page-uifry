@@ -6,18 +6,18 @@ const Hero = () => {
       <div className="container px-4 mx-auto">
         <div className="flex flex-wrap ">
           <div className="w-full lg:w-1/2 pt-20 lg:pt-40 xl:pt-40 relative">
-            {/* <img
-              src='/assets/star-left.svg'
-              alt='star'
-              data-aos='fade-up'
-              className='absolute right-full mr-0 top-36'
+            <img
+              src="/assets/star-left.svg"
+              alt="star"
+              data-aos="fade-up"
+              className="absolute right-full mr-0 top-36"
             />
             <img
-              src='/assets/hero-image/circle.svg'
-              alt='circle'
-              data-aos='fade-up'
-              className='absolute top-8 right-[5%] pointer-events-none'
-            /> */}
+              src="/assets/hero-image/circle.svg"
+              alt="circle"
+              data-aos="fade-up"
+              className="absolute top-8 right-[5%] pointer-events-none"
+            />
             <div className="relative z-[1]">
               <div>
                 <h4
